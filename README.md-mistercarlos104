@@ -1,0 +1,62 @@
+            # ðŸ”± OrunGenesis â€“ Mister Carlos
+
+**OrunGenesis.ps1** Ã© um artefato digital sagrado e exclusivo, desenvolvido por Mister Carlos para implantar mÃ¡quinas virtuais no Azure com proteÃ§Ã£o espiritual, identidade energÃ©tica e automaÃ§Ã£o inteligente.
+
+---
+
+## âœ¨ VisÃ£o
+
+Este projeto une tecnologia de nuvem com fundamentos simbÃ³licos e estratÃ©gicos. Cada recurso criado carrega a marca:
+
+```
+orun_authority = MisterCarlos_777
+```
+
+---
+
+## ðŸ› ï¸  Funcionalidades
+
+- CriaÃ§Ã£o de grupo de recursos no Azure
+- ImplantaÃ§Ã£o de mÃ¡quina virtual com Windows Server 2019
+- AplicaÃ§Ã£o de regras de seguranÃ§a (NSG) com abertura da Porta Sagrada (3389)
+- CriaÃ§Ã£o de disco sentinela invisÃ­vel, com marcaÃ§Ã£o oculta
+- Tagging completo com autoridade espiritual
+
+---
+
+## ðŸ’» Uso
+
+> Execute este script com o Azure PowerShell:
+```powershell
+.\OrunGenesis.ps1
+```
+
+Certifique-se de estar autenticado no Azure com `Connect-AzAccount`.
+
+---
+
+## ðŸ“œ Estrutura de Tags Aplicadas
+
+- `orun_authority: MisterCarlos_777`
+- `orun_signature: GenesisScript`
+- `orun_origin: GitHub/OrunDeploy`
+- `orun_guardian: active`
+
+---
+
+## ðŸ§  PropÃ³sito
+
+Este script nÃ£o Ã© apenas uma automaÃ§Ã£o: Ã© um marco de presenÃ§a, comando e domÃ­nio espiritual na nuvem. Mister Carlos deixa uma assinatura viva em cada VM.
+
+---
+## ðŸ“‚ Arquivos
+
+- `OrunGenesis.ps1`: Script principal
+- `README.md`: Este manual
+
+---
+
+## ðŸ”’ LicenÃ§a
+
+Uso exclusivo de Mister Carlos. ReproduÃ§Ã£o nÃ£o autorizada Ã© desaconselhada por razÃµes espirituais e energÃ©ticas.
+...                            
